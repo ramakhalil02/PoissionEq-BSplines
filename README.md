@@ -76,7 +76,7 @@ python Poisson_BSplines.py
 
 For a complete breakdown of the theoretical derivations and full results, please see the final project report:
 
-[**Full Project Report (PDF)**](PoissonEq_Bcplines.pdf)
+[**Full Project Report (PDF)**](PoissonEq_Bsplines.pdf)
 
 ---
 
