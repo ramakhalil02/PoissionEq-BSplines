@@ -68,7 +68,7 @@ The computational core of the project implements the following techniques:
 To run the simulation and generate the results and visualizations, execute the core solver script:
 
 ```bash
-python PoissionEq_Bsplines.py
+python Poisson_BSplines.py
 ```
 ---
 
